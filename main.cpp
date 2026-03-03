@@ -7,6 +7,6 @@ using namespace std;
 int main(){
     cout << "Hello" << endl;
     cout << "World" << endl;
-    cout << "01做了修改ksfjas;lfj" << endl;
+    cout << "世界毁灭吧" << endl;
     return 0;
 }
