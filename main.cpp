@@ -9,5 +9,7 @@ int main(){
     cout << "World" << endl;
     cout << "Different 02" << '\n';
     cout << "02做了修改哦" << '\n';
+    cout << "01做了修改哦" << endl;
+    cout << "01做了修改哦" << endl;
     return 0;
 }
