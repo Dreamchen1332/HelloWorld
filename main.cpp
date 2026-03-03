@@ -8,6 +8,5 @@ int main(){
     cout << "Hello" << endl;
     cout << "World" << endl;
     cout << "01做了修改哦" << endl;
-    cout << "01做了修改哦" << endl;
     return 0;
 }
